@@ -14,8 +14,8 @@ Installation
 
 Clone this repository:
 
-bashCopygit clone https://github.com/metarelayer/monad-gasless-relayer.git
-cd monad-gasless-relayer
+bashCopygit clone https://github.com/MetaRelayer/master.git
+cd backend
 
 
 Install dependencies:
