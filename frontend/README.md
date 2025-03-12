@@ -38,3 +38,6 @@ export const CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS";
 export const EXPLORER_URL = "https://testnet.monadexplorer.com/tx"; # YOU CAN CHANGE THIS RPC WITH YOURS
 export const NODE_URL = "http://localhost:3000"; # BY DEFAULT localhost if you are on development, you can change the endpoints in relay if you want to change.
 ```
+
+## In action demo - https://metarelayer.xyz/
+## Demo video - https://www.youtube.com/watch?v=dBZktf99kp8
