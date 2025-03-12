@@ -32,9 +32,9 @@ A high-performance parallel relayer service for gasless NFT minting on the Monad
    # Edit the .env file and add your relay wallet's private key, contract address, and rpc settings.
    ```
 
-## Configuration
+## .env Configuration 
 
-The relayer can be configured using environment variables:
+The relayer can be configured using environment variables in .env file use all.
 
 - **Testnet RPC endpoint**: `https://testnet-rpc.monad.xyz/`
 - **CONTRACT_ADDRESS**: Address of the Gasless NFT contract
